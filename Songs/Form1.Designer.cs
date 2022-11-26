@@ -1,4 +1,5 @@
-﻿namespace Songs_Database
+﻿using System.Windows.Forms;
+namespace Songs
 {
     partial class Form1
     {
